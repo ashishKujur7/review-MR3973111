@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{zbMATH07130838}{article}{}
+      \name{author}{4}{}{%
+        {{hash=45aeab137eabb440a3f091abcc654634}{%
+           family={Aleman},
+           familyi={A\bibinitperiod},
+           given={Alexandru},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c5ee7e7be9287ab65d93a8964f5d48ac}{%
+           family={Hartz},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e4adec51a04e5bbb739cb0851c2c45cc}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=8c0a02c88f019c2dee413a67786c2527}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{abd63caea1c749b9ad52101b41cb48dc}
+      \strng{fullhash}{abd63caea1c749b9ad52101b41cb48dc}
+      \strng{bibnamehash}{abd63caea1c749b9ad52101b41cb48dc}
+      \strng{authorbibnamehash}{abd63caea1c749b9ad52101b41cb48dc}
+      \strng{authornamehash}{abd63caea1c749b9ad52101b41cb48dc}
+      \strng{authorfullhash}{abd63caea1c749b9ad52101b41cb48dc}
+      \field{labelalpha}{Ale+19}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1073-7928}
+      \field{journaltitle}{Int. Math. Res. Not.}
+      \field{number}{12}
+      \field{title}{Interpolating sequences in spaces with the complete {Pick} property}
+      \field{volume}{2019}
+      \field{year}{2019}
+      \field{pages}{3832\bibrangedash 3854}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/imrn/rnx237
+      \endverb
+      \keyw{46E22,30E05,30H10,30H25,30H50}
+    \endentry
+    \entry{MR1882259}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f6fa482f23f84917cbf244cd3e7172ab}{%
+           family={Agler},
+           familyi={A\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e4adec51a04e5bbb739cb0851c2c45cc}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society, Providence, RI}%
+      }
+      \strng{namehash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \strng{fullhash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \strng{bibnamehash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \strng{authorbibnamehash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \strng{authornamehash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \strng{authorfullhash}{c64ed11d679ea613569d2ab681a9b5ea}
+      \field{labelalpha}{AM02}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-8218-2898-3}
+      \field{series}{Graduate Studies in Mathematics}
+      \field{title}{Pick interpolation and {H}ilbert function spaces}
+      \field{volume}{44}
+      \field{year}{2002}
+      \field{pages}{xx+308}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1090/gsm/044
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1090/gsm/044
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1090/gsm/044
+      \endverb
+    \endentry
+    \entry{33675660-3119-37a8-a5d2-fa5a40dfb227}{article}{}
+      \name{author}{1}{}{%
+        {{hash=51620cd697107979491c0c624511c28b}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society}%
+      }
+      \strng{namehash}{51620cd697107979491c0c624511c28b}
+      \strng{fullhash}{51620cd697107979491c0c624511c28b}
+      \strng{bibnamehash}{51620cd697107979491c0c624511c28b}
+      \strng{authorbibnamehash}{51620cd697107979491c0c624511c28b}
+      \strng{authornamehash}{51620cd697107979491c0c624511c28b}
+      \strng{authorfullhash}{51620cd697107979491c0c624511c28b}
+      \field{labelalpha}{And79}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the first three sections the question of when a pure state $g$ on a $C^\ast$-subalgebra $B$ of a $C^\ast$-algebra $A$ has a unique state extension is studied. It is shown that an extension $f$ is unique if and only if $\|\inf\|b(a - f(a)1)b\| = 0$ for each $a$ in $A$, where the $\inf$ is taken over those $b$ in $B$ such that $0 \leqslant b \leqslant 1$ and $g(b) = 1$. The special cases where $B$ is maximal abelian and/or $A = B(H)$ are treated in more detail. In the remaining sections states of the form $T \mapsto \lim_{\mathscr{u}}(Tx_\alpha, x_\alpha)$, where $\{x_\alpha\}_{\alpha \in \kappa}$ is a set of unit vectors in $H$ and $\mathscr{U}$ is an ultrafilter are studied.}
+      \field{issn}{00029947}
+      \field{journaltitle}{Transactions of the American Mathematical Society}
+      \field{number}{2}
+      \field{title}{Extensions, Restrictions, and Representations of States on $C^\ast$- Algebras}
+      \field{urlday}{13}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{249}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{303\bibrangedash 329}
+      \range{pages}{27}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1998793
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1998793
+      \endverb
+    \endentry
+    \entry{30c7c40f-4586-3923-8243-7287f552dff5}{article}{}
+      \name{author}{1}{}{%
+        {{hash=40cbe052f687ef31356587fb6d5235fd}{%
+           family={Carleson},
+           familyi={C\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{fullhash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{bibnamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authorbibnamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authornamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authorfullhash}{40cbe052f687ef31356587fb6d5235fd}
+      \field{extraname}{1}
+      \field{labelalpha}{Car58}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00029327, 10806377}
+      \field{journaltitle}{American Journal of Mathematics}
+      \field{number}{4}
+      \field{title}{An Interpolation Problem for Bounded Analytic Functions}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{80}
+      \field{year}{1958}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{921\bibrangedash 930}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2372840
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2372840
+      \endverb
+    \endentry
+    \entry{MR0117349}{article}{}
+      \name{author}{1}{}{%
+        {{hash=40cbe052f687ef31356587fb6d5235fd}{%
+           family={Carleson},
+           familyi={C\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{fullhash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{bibnamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authorbibnamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authornamehash}{40cbe052f687ef31356587fb6d5235fd}
+      \strng{authorfullhash}{40cbe052f687ef31356587fb6d5235fd}
+      \field{extraname}{2}
+      \field{labelalpha}{Car58}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9327,1080-6377}
+      \field{journaltitle}{Amer. J. Math.}
+      \field{title}{An interpolation problem for bounded analytic functions}
+      \field{volume}{80}
+      \field{year}{1958}
+      \field{pages}{921\bibrangedash 930}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.2307/2372840
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2307/2372840
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2307/2372840
+      \endverb
+    \endentry
+    \entry{Marshall1994InterpolatingSF}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=137cdcb56adc86cd95c935b46ea76495}{%
+           family={Marshall},
+           familyi={M\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4ca46f9857916d060a7cc286612ef490}{%
+           family={Sundberg},
+           familyi={S\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \strng{fullhash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \strng{bibnamehash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \strng{authorbibnamehash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \strng{authornamehash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \strng{authorfullhash}{d200adbe67154e2b1b50f3c19e6b2691}
+      \field{labelalpha}{MS94}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Interpolating Sequences for the Multipliers of the Dirichlet Space}
+      \field{year}{1994}
+      \verb{urlraw}
+      \verb https://api.semanticscholar.org/CorpusID:28005494
+      \endverb
+      \verb{url}
+      \verb https://api.semanticscholar.org/CorpusID:28005494
+      \endverb
+    \endentry
+    \entry{MR3374963}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0d900bb783893347a8eba1f216ea45a1}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Adam\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b1c0dd1247f6bbeb095d045cd1ba62ea}{%
+           family={Spielman},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b2b942c272c00532b44dc68e7a6524a2}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Nikhil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \strng{fullhash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \strng{bibnamehash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \strng{authorbibnamehash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \strng{authornamehash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \strng{authorfullhash}{8822999c8acbcc72d8a9bb3e817763ec}
+      \field{labelalpha}{MSS15}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-486X,1939-8980}
+      \field{journaltitle}{Ann. of Math. (2)}
+      \field{number}{1}
+      \field{title}{Interlacing families {II}: {M}ixed characteristic polynomials and the {K}adison-{S}inger problem}
+      \field{volume}{182}
+      \field{year}{2015}
+      \field{pages}{327\bibrangedash 350}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.4007/annals.2015.182.1.8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4007/annals.2015.182.1.8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4007/annals.2015.182.1.8
+      \endverb
+    \endentry
+    \entry{1cb1f5bb-aa4a-31e2-ba77-0159c6d327f4}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cdb3b4c702056eeaa748ba9e4c739c5}{%
+           family={Sarason},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society}%
+      }
+      \strng{namehash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \strng{fullhash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \strng{bibnamehash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \strng{authorbibnamehash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \strng{authornamehash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \strng{authorfullhash}{8cdb3b4c702056eeaa748ba9e4c739c5}
+      \field{labelalpha}{Sar67}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00029947}
+      \field{journaltitle}{Transactions of the American Mathematical Society}
+      \field{number}{2}
+      \field{title}{Generalized Interpolation in \texorpdfstring{$H^{\infty}$}{H-infinity}}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{127}
+      \field{year}{1967}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{179\bibrangedash 203}
+      \range{pages}{25}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1994641
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1994641
+      \endverb
+    \endentry
+    \entry{zbMATH07704844}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a99188640e7c9fd83486fed4e9bdcaec}{%
+           family={Tsikalas},
+           familyi={T\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \strng{fullhash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \strng{bibnamehash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \strng{authorbibnamehash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \strng{authornamehash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \strng{authorfullhash}{a99188640e7c9fd83486fed4e9bdcaec}
+      \field{labelalpha}{Tsi23}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-1236}
+      \field{journaltitle}{J. Funct. Anal.}
+      \field{note}{Id/No 110059}
+      \field{number}{7}
+      \field{title}{Interpolating sequences for pairs of spaces}
+      \field{volume}{285}
+      \field{year}{2023}
+      \field{pages}{43}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jfa.2023.110059
+      \endverb
+      \keyw{46E22,30H10,30H20,30E05}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
